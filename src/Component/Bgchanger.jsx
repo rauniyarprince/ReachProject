@@ -14,7 +14,7 @@ function Bgchanger() {
       </h1>
 
       {/* Buttons Container */}
-      <div className='fixed bottom-10 inset-x-0 flex justify-center px-4'>
+      <div className='bottom-10 inset-x-0 flex justify-center px-4'>
         <div className='flex flex-wrap justify-center gap-3 shadow-lg bg-white px-4 py-3 rounded-3xl max-w-[95%] overflow-x-auto'>
 
           {/* Button Template */}
