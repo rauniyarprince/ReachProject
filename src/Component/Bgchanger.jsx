@@ -9,9 +9,12 @@ function Bgchanger() {
       style={{ backgroundColor: color }}
     >
       {/* Heading */}
-      <h1 className='font-bold text-3xl sm:text-4xl font-serif mb-10 text-center'>
+      <h1 className='font-bold text-3xl sm:text-4xl font-serif mb-2 text-center'>
         Color Tester
       </h1>
+       <p className='font-bold  text-gray-300  text-center mb-3 font-thin'>
+        Click on button to change color
+      </p>
 
       {/* Buttons Container */}
       <div className='bottom-10 inset-x-0 flex justify-center px-4'>
